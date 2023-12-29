@@ -14,15 +14,7 @@ public class Vehicle {
     }
     
     public int getId() {
-		return id;
-	}
-
-	public void setId(int id) {
-		this.id = id;
-	}
-
-	public void setArrivalTime(long arrivalTime) {
-		this.arrivalTime = arrivalTime;
-	}
+        return id;
+    }
 
 }

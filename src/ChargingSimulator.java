@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.concurrent.Executors;
 import java.util.Random;
 import java.util.Scanner;
-import java.util.concurrent.TimeUnit;
+
 
 public class ChargingSimulator {
     private static final int numberOfChargingStations = 3; // Adjust as needed but currently there are 3 
@@ -85,33 +85,34 @@ public class ChargingSimulator {
     }
     
     private void checkLogFiles() {
-    	Scanner scanner = new Scanner(System.in);
-    	String userInput ;
-    	
-    	System.out.print("Do you want to see the logs [y/n]? ");
-    	userInput = scanner.nextLine();
-    	
-    	
-    	while (!userInput.matches("[ynNY]")) {
-    		
-    		System.out.print("Invalid input, Please enter again [y/n]? " );
-    	    userInput = scanner.nextLine();
-    	}
-        
-    	if (userInput.matches("[yY]") ) {
+    	try (Scanner scanner = new Scanner(System.in)) {
+			String userInput ;
 			
-			// Get user input for equipment name or date
-	        System.out.print("Enter the date (format DD-MM-YYYY): ");
-	        userInput = scanner.nextLine();
+			System.out.print("Do you want to see the logs [y/n]? ");
+			userInput = scanner.nextLine();
+			
+			
+			while (!userInput.matches("[ynNY]")) {
+				
+				System.out.print("Invalid input, Please enter again [y/n]? " );
+			    userInput = scanner.nextLine();
+			}
+			
+			if (userInput.matches("[yY]") ) {
+				
+				// Get user input for equipment name or date
+			    System.out.print("Enter the date (format DD-MM-YYYY): ");
+			    userInput = scanner.nextLine();
 
-	        // Construct the file path based on user input
-	        String folderPath = LogFileOpener.constructLogFolderPath(userInput);
+			    // Construct the file path based on user input
+			    String folderPath = LogFileOpener.constructLogFolderPath(userInput);
 
-	        // Open the file using the default text editor (platform-dependent)
-	        LogFileOpener.openLogFilesInFolder(folderPath, ".*\\.txt");
-	        
-		} else {
-			System.out.print("Thanks for using our system. See you next time!! ");
+			    // Open the file using the default text editor (platform-dependent)
+			    LogFileOpener.openLogFilesInFolder(folderPath, ".*\\.txt");
+			    
+			} else {
+				System.out.print("Thanks for using our system. See you next time!! ");
+			}
 		}
         
     }

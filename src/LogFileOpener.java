@@ -40,7 +40,7 @@ public class LogFileOpener {
         }
     }
 
-    private static void openLogFile(String filePath) {
+    public static void openLogFile(String filePath) {
         try {
             File file = new File(filePath);
             if (file.exists()) {

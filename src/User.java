@@ -12,7 +12,8 @@ class User {
         this.vehicle = new Vehicle(userId);
     }
 
-    // Getters and setters
+	
+	// Getters and setters
     
 	public String getUsername() {
 		return username;
