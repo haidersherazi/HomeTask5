@@ -6,10 +6,10 @@
 	She has implemented the test cases which focus on the foundational aspects of the system, including metadata, log file handling, main functionality, and weather simulation.
  
 ### Syed Muhammad Haider Ali Sherazi (Enrolment/Student No: 7219530)
-	He has defined the test cases including charging in different weather conditions and handling failures during the charging process. Also, he has implemented the functionality of giving user the possibility to open the requested log file based on the date.
+	He has defined the test cases including charging in different weather conditions and handling failures during the charging process. 
 
 ### Muhammad Tallal Bin Shahid (Enrolment/Student No: 7219428)
-	He has implemented test cases which focus on the energy management aspect of the system, including construction, and optimal energy source identification in different weather conditions.
+	He has defined the test cases including charging in different weather conditions and handling failures during the charging process. Also, he has integrated the coverage part and made sure that the code coverage is up to the market level.
 
 ### Hamid Zaib (Enrolment/Student No: 7219189)
 	He has implemented test cases that primarily cover charging capabilities in specific weather conditions, station occupancy, and release-replenish interactions.
