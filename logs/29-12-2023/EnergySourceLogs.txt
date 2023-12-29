@@ -1,0 +1,40 @@
+December 29, 2023 07:34:46     Station number 1 has been assigned to User-1 to charge the reserve battery.
+December 29, 2023 07:34:46     Charge the vehicle with 29 units of energy. Remaining Energy level will be: 71
+December 29, 2023 07:34:48     Station number 2 has been assigned to User-2 to charge the reserve battery.
+December 29, 2023 07:34:48     Charge the vehicle with 30 units of energy. Remaining Energy level will be: 70
+December 29, 2023 07:34:52     Station number 1 has been assigned to User-3 to charge the reserve battery.
+December 29, 2023 07:34:52     Charge the vehicle with 19 units of energy. Remaining Energy level will be: 51
+December 29, 2023 07:34:54     Station number 2 has been assigned to User-4 to charge the reserve battery.
+December 29, 2023 07:34:54     Charge the vehicle with 30 units of energy. Remaining Energy level will be: 51
+December 29, 2023 07:34:57     Station number 1 has been assigned to User-5 to charge the reserve battery.
+December 29, 2023 07:34:57     Charge the vehicle with 23 units of energy. Remaining Energy level will be: 78
+December 29, 2023 08:38:55     Station number 2 has been assigned to User-1 to charge the reserve battery.
+December 29, 2023 08:38:55     Charge the vehicle with 10 units of energy. Remaining Energy level will be: 90
+December 29, 2023 08:38:58     Station number 1 has been assigned to User-2 to charge the reserve battery.
+December 29, 2023 08:38:58     Charge the vehicle with 11 units of energy. Remaining Energy level will be: 89
+December 29, 2023 08:39:01     Station number 2 has been assigned to User-3 to charge the reserve battery.
+December 29, 2023 08:39:01     Charge the vehicle with 28 units of energy. Remaining Energy level will be: 92
+December 29, 2023 08:39:05     Station number 1 has been assigned to User-4 to charge the reserve battery.
+December 29, 2023 08:39:05     Charge the vehicle with 30 units of energy. Remaining Energy level will be: 62
+December 29, 2023 08:39:08     Station number 2 has been assigned to User-5 to charge the reserve battery.
+December 29, 2023 08:39:08     Charge the vehicle with 26 units of energy. Remaining Energy level will be: 93
+December 29, 2023 10:21:59     Station number 1 has been assigned to User-1 to charge the reserve battery.
+December 29, 2023 10:21:59     Charge the vehicle with 25 units of energy. Remaining Energy level will be: 75
+December 29, 2023 10:22:00     Station number 2 has been assigned to User-2 to charge the reserve battery.
+December 29, 2023 10:22:00     Charge the vehicle with 33 units of energy. Remaining Energy level will be: 67
+December 29, 2023 10:22:04     Station number 1 has been assigned to User-3 to charge the reserve battery.
+December 29, 2023 10:22:04     Charge the vehicle with 18 units of energy. Remaining Energy level will be: 49
+December 29, 2023 10:22:05     Station number 3 has been assigned to User-4 to charge the reserve battery.
+December 29, 2023 10:22:05     Charge the vehicle with 14 units of energy. Remaining Energy level will be: 91
+December 29, 2023 10:22:05     Station number 2 has been assigned to User-5 to charge the reserve battery.
+December 29, 2023 10:22:05     Charge the vehicle with 23 units of energy. Remaining Energy level will be: 56
+December 29, 2023 10:23:17     Station number 2 has been assigned to User-1 to charge the reserve battery.
+December 29, 2023 10:23:17     Charge the vehicle with 25 units of energy. Remaining Energy level will be: 75
+December 29, 2023 10:23:19     Station number 1 has been assigned to User-2 to charge the reserve battery.
+December 29, 2023 10:23:19     Charge the vehicle with 27 units of energy. Remaining Energy level will be: 48
+December 29, 2023 10:23:22     Station number 2 has been assigned to User-3 to charge the reserve battery.
+December 29, 2023 10:23:22     Charge the vehicle with 22 units of energy. Remaining Energy level will be: 56
+December 29, 2023 10:23:23     Station number 3 has been assigned to User-4 to charge the reserve battery.
+December 29, 2023 10:23:23     Charge the vehicle with 24 units of energy. Remaining Energy level will be: 32
+December 29, 2023 10:23:24     Station number 1 has been assigned to User-5 to charge the reserve battery.
+December 29, 2023 10:23:24     Charge the vehicle with 20 units of energy. Remaining Energy level will be: 80

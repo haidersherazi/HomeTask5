@@ -1,0 +1,20 @@
+December 29, 2023 07:34:46     Reserve battery of User-1 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+December 29, 2023 07:34:48     Reserve battery of User-2 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 07:34:52     Reserve battery of User-3 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 07:34:54     Reserve battery of User-4 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 07:34:57     Reserve battery of User-5 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+December 29, 2023 08:38:55     Reserve battery of User-1 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+December 29, 2023 08:38:58     Reserve battery of User-2 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 08:39:01     Reserve battery of User-3 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+December 29, 2023 08:39:05     Reserve battery of User-4 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+December 29, 2023 08:39:08     Reserve battery of User-5 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 10:21:59     Reserve battery of User-1 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+December 29, 2023 10:22:00     Reserve battery of User-2 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 10:22:04     Reserve battery of User-3 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 10:22:05     Reserve battery of User-4 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+December 29, 2023 10:22:05     Reserve battery of User-5 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 10:23:17     Reserve battery of User-1 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 10:23:19     Reserve battery of User-2 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 10:23:22     Reserve battery of User-3 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 10:23:23     Reserve battery of User-4 vehicle is getting energy from Solar because the weather is Sunny.
+December 29, 2023 10:23:24     Reserve battery of User-5 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
